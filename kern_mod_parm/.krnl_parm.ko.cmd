@@ -1,0 +1,1 @@
+cmd_/home/kamal/DeviceDrivers/kern_mod_parm/krnl_parm.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/kamal/DeviceDrivers/kern_mod_parm/krnl_parm.ko /home/kamal/DeviceDrivers/kern_mod_parm/krnl_parm.o /home/kamal/DeviceDrivers/kern_mod_parm/krnl_parm.mod.o;  true
