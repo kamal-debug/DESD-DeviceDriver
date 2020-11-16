@@ -1,0 +1,1 @@
+cmd_/home/kamal/DeviceDrivers/Export_Symbol_Modprobe/Average.mod := { echo  /home/kamal/DeviceDrivers/Export_Symbol_Modprobe/Average.o; echo; } > /home/kamal/DeviceDrivers/Export_Symbol_Modprobe/Average.mod
