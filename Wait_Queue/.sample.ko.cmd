@@ -1,0 +1,1 @@
+cmd_/home/kamal/DeviceDrivers/Wait_Queue/sample.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/kamal/DeviceDrivers/Wait_Queue/sample.ko /home/kamal/DeviceDrivers/Wait_Queue/sample.o /home/kamal/DeviceDrivers/Wait_Queue/sample.mod.o;  true
