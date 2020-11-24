@@ -1,0 +1,1 @@
+cmd_/home/kamal/DeviceDrivers/Circular_buff/sample.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/kamal/DeviceDrivers/Circular_buff/sample.ko /home/kamal/DeviceDrivers/Circular_buff/sample.o /home/kamal/DeviceDrivers/Circular_buff/sample.mod.o;  true
